@@ -1,4 +1,4 @@
-package org.example;
+package org.example.texthandlingtask;
 
 import org.apache.logging.log4j.Level;
 import org.apache.logging.log4j.LogManager;
